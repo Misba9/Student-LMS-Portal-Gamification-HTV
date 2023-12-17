@@ -52,6 +52,12 @@
 .sm\:flex-row {
     flex-direction: row; */
 /* } */
+#he{
+height: 55%;
+}
+.bb-m{
+    border-bottom:3px solid #55a2f5;
+}
 .px-3 {
     padding-left: 0.75rem;
     padding-right: 0.75rem;
@@ -143,7 +149,6 @@
     cursor: pointer;
 }
 [type=button], [type=reset], [type=submit], button {
-    -webkit-appearance: button;
     background-color: transparent;
     background-image: none;
 }
@@ -294,7 +299,6 @@ body {
     cursor: pointer;
 }
 [type=button], [type=reset], [type=submit], button {
-    -webkit-appearance: button;
     background-color: transparent;
     background-image: none;
 }
@@ -408,7 +412,6 @@ button {
     cursor: pointer;
 }
 [type=button], [type=reset], [type=submit], button {
-    -webkit-appearance: button;
     background-color: transparent;
     background-image: none;
 }
